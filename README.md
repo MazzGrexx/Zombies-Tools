@@ -1,7 +1,8 @@
 # Welcome To Zombies Tools
 
 ## Tutorial-Termux
-Berikut Ini Adalah Tutorial Pemasangan Untuk Pengguna Termux.          
+Berikut Ini Adalah Tutorial Pemasangan Untuk Pengguna Termux.
+
 `pkg update && pkg upgrade -y`
 
 `pkg install git -y`
